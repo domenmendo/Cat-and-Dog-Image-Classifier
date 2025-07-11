@@ -164,19 +164,6 @@ your_project/
 
 ---
 
-## 📜 License
-
-This project is open-source.  
-[Insert your preferred license, e.g., MIT]
-
----
-
-## 🤝 Contributing
-
-Pull requests and improvements are welcome!
-
----
-
 ## 📷 Example Prediction
 
 ```
